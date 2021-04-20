@@ -8,6 +8,7 @@ body{
   position: relative;
   top: 100px;
   width:  500px;
+  justify-content: center;
 }
 #content-box{
 background: #ccc;
