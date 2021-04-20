@@ -30,3 +30,7 @@ a{
   background: #fff;
   padding: 15px;
 }
+
+a:hover{
+  background: pink;
+}
