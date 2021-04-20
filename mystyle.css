@@ -20,7 +20,7 @@ ul {
 	position: relative;
   margin-bottom: 12px;
   list-style-type: none;
-  padding: 0px;
+  padding: 13px;
   display: flex;
   justify-content: left;
 }
