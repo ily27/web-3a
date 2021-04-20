@@ -16,7 +16,7 @@ padding: 15px;
 margin-bottom: 15px;
 }
 
-ul{
+ul {
 	position: relative;
   margin-bottom: 12px;
   list-style-type: none;
@@ -28,7 +28,7 @@ ul{
 a{
   text-decoration: none;
   background: #fff;
-  padding: 15px;
+  padding: 0px;
 }
 
 a:hover{
