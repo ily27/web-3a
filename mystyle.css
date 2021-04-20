@@ -18,9 +18,10 @@ margin-bottom: 15px;
 
 ul{
 	position: relative;
-  margin-bottom: 13px;
+  margin-bottom: 12px;
   list-style-type: none;
   padding: 0px;
+  display: block;
   justify-content: left;
 }
 
