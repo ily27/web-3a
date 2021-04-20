@@ -1,7 +1,7 @@
 body{
   display: flex;
   justify-content: center;
-  background: purple
+  background: purple;
 }
 
 #container{
@@ -11,7 +11,7 @@ body{
   justify-content: center;
 }
 #content-box{
-background: #ccc;
+background: #fff;
 padding: 15px;
 margin-bottom: 15px;
 }
